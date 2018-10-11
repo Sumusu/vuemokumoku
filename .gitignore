@@ -1,0 +1,10 @@
+node_modules/
+*.lnk
+.DS_Store
+*.txt
+dist/
+semantic/
+coverage/
+reports/
+e2e_reports/
+logs/
